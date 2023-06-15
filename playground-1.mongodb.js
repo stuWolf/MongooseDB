@@ -7,7 +7,7 @@ const collection = 'subjects';
 
 // Create a new database.
 use(database);
-
+first 
 // Create a new collection.
 db.createCollection('grades');
 db.createCollection('classes');
